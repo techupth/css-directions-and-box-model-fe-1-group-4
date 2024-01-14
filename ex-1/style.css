@@ -1,1 +1,55 @@
 /* Start coding here */
+body {
+    margin: 0;
+    font-family: 'Sarabun', sans-serif;
+  }
+  
+  header {
+    background-color: lightgrey;
+    color: black;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    color: crimson;
+  }
+  
+  p {
+    font-size: 16px;
+    color: black;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 16px;
+    color: black;
+  }
+  
+  footer {
+    background-color: black;
+    color: lightgrey;
+    text-align: center;
+    padding: 10px;
+  }
+  

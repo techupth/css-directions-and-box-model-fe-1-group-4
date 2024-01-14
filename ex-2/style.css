@@ -1,1 +1,75 @@
 /* Start coding here */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: lightgrey;
+    color: black;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  header h1 {
+    font-size: 72px;
+    margin: 0;
+    margin-left: 30px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+  }
+  
+  nav ul li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .featured-section {
+    background-color: khaki;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .featured-section h2 {
+    font-size: 24px;
+    color: crimson;
+  }
+  
+  .blog-posts article {
+    background-color: lightgrey;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-posts h3 {
+    font-size: 16px;
+    color: black;
+  }
+  
+  .blog-posts p {
+    font-size: 16px;
+    color: black;
+  }
+  
+  footer {
+    background-color: black;
+    color: lightgrey;
+    text-align: center;
+    padding: 10px;
+  }
+  
