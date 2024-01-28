@@ -1,1 +1,23 @@
 /* Start coding here */
+body {
+    font-family: Sarabun;
+    color:rgb(44, 61, 117)
+}
+
+header {
+    background-color: rgb(139, 164, 192);
+    text-align: left;
+    padding: 10px;
+}
+
+.blog-post {
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    background-color:rgb(190, 201, 214);
+    border: 5px solid rgb(16, 92, 179);
+ }
+ 
+ .blog-post img {
+    width: 100%;
+ }
